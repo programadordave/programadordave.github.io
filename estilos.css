@@ -156,15 +156,3 @@ p{
 	outline:0;
 	border: 1px solid #97d848;
 }
-
-
-.formulario input:focus{
-	outline:0;
-	border: 1px solid #97d848;
-}
-
-
-.formulario textarea:focus{
-	outline:0;
-	border: 1px solid #97d848;
-}
